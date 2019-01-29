@@ -1,0 +1,4 @@
+name: What is GFW
+timezone: Asia/Beijing
+encoding: "utf-8"
+permalink: /:year/:month/:title
